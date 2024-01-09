@@ -1,1 +1,2 @@
-## Screenshot of Portfolio Website
+# Screenshot of Portfolio Website
+<img src="screenshot.jpg">
